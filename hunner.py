@@ -1,4 +1,4 @@
-# Author MoDarK-MK
+# Author B3avers
 import urllib.request as urllib2
 import re
 import sys
